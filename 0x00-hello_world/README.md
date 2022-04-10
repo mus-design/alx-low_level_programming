@@ -6,3 +6,4 @@ generate assembly code
  create mode 100755 0x00-hello_world/2-assembler
 executable name
 print out
+printf
