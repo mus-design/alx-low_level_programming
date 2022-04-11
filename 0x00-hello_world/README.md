@@ -7,3 +7,4 @@ generate assembly code
 executable name
 print out
 printf
+size is grandeur
