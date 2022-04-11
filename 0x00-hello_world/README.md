@@ -8,3 +8,4 @@ executable name
 print out
 printf
 size is grandeur
+intel syntax
