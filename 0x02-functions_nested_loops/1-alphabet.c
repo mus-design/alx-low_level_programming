@@ -1,20 +1,22 @@
- #include "main.h"
+#include <stdio.h>
+#include "main.h"
 
 /**
- * print_alphabet - prints the alphabet, in lowercase,
- * followed by a new line
- * Return: Always 0.
+ * main - Entry point.
+ * Description: write a program that prints "_putchar" followed by a new line.
+ * Return: Always 0 (Success.)
  */
-void print_alphabet(void)
+int main(void)
 {
-	char ch;
-
-	ch = 'a';
-
-	for (; ch <= 'z'; ch++)
-	{
-		_putchar(ch);
-	}
-
+	_putchar('_');
+	_putchar('p');
+	_putchar('u');
+	_putchar('t');
+	_putchar('c');
+	_putchar('h');
+	_putchar('a');
+	_putchar('r');
 	_putchar('\n');
+
+	return (0);
 }
