@@ -1,2 +1,1 @@
-print putchar
-print alphabet
+print all
