@@ -1,1 +1,1 @@
-RETURN your code
+RETURN 0
