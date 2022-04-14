@@ -1,3 +1,3 @@
 
-natural numbers
+n times table
 
