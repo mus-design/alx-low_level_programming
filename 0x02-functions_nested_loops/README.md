@@ -1,2 +1,2 @@
 
-check for lower case
+function
