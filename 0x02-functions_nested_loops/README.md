@@ -1,3 +1,3 @@
 
-add two integers
+natural numbers
 
