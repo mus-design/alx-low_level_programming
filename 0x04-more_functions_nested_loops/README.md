@@ -1,1 +1,1 @@
-RETURN 0
+RETURN 0;
