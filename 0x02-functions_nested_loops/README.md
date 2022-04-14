@@ -1,2 +1,2 @@
 
-Absolute
+last digit
