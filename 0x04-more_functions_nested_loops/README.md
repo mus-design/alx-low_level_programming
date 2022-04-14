@@ -1,1 +1,1 @@
-RETURN 0;
+shortest distance
