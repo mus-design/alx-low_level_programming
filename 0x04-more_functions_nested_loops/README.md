@@ -1,1 +1,1 @@
-shortest distance
+diagonal
