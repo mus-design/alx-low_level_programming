@@ -1,2 +1,2 @@
 
-print all
+check for lower case
