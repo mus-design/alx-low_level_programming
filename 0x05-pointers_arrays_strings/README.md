@@ -1,1 +1,1 @@
- copies string
+ convert strings
