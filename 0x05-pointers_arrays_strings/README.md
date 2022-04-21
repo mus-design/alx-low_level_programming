@@ -1,1 +1,1 @@
- n times element
+ copies string
