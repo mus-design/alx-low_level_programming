@@ -1,1 +1,1 @@
-string concatenation
+copies a string
