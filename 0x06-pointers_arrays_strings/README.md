@@ -1,1 +1,1 @@
-encode string
+encode
