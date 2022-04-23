@@ -1,1 +1,1 @@
-reverse strings
+lowercase to uppercase
