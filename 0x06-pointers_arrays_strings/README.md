@@ -1,1 +1,1 @@
-concantenate two string
+string concatenation
