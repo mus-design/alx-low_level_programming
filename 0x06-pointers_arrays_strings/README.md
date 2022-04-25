@@ -1,1 +1,1 @@
-print all 
+Buffer
