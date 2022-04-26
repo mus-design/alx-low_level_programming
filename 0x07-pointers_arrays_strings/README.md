@@ -1,1 +1,1 @@
-substring
+set of bytes
