@@ -1,2 +1,2 @@
-double pointer
+password for the crackme2 executable.
 
