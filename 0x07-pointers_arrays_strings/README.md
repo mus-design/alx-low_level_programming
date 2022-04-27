@@ -1,2 +1,2 @@
-diagonal
+double pointer
 
