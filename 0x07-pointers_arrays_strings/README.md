@@ -1,2 +1,2 @@
-set of bytes
+chessboard
 
