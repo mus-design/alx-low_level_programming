@@ -1,1 +1,1 @@
- strings
+arrays of integers
