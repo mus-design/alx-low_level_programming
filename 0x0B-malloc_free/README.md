@@ -1,1 +1,1 @@
-malloc and free
+array of chars
