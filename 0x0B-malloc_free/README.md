@@ -1,1 +1,1 @@
-array of chars
+ copy of the string given as a parameter
