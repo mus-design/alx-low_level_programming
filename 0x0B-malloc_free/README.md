@@ -1,1 +1,1 @@
-arrays of integers
+ dimensional grid
