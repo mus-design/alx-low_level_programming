@@ -1,1 +1,1 @@
-print its name
+arguments
