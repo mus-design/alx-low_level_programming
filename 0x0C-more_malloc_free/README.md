@@ -1,1 +1,1 @@
-malloc
+function that concatenates two strings
